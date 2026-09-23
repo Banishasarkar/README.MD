@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm learning Full Stack Development and AIML along the way, building projects on it</h1>
+README.MD <h1>Hi 👋, I'm learning Full Stack Development and AIML along the way, building projects on it</h1>
 <p>A passionate developer and learning AIML along the way, building projects on it</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
